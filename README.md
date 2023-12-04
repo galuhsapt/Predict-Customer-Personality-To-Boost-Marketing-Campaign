@@ -7,6 +7,7 @@ by Mochamad Galuh Saputra
 A company can grow rapidly by understanding the personality behavior of its customers, enabling it to provide better services and benefits to potential loyal customers. By analyzing historical marketing campaign data to enhance performance and target the right customers for transactions on the company's platform, our focus from this data insight is to create a predictive clustering model to facilitate decision-making for the company.
 
 ## Objective
+The objective of this project is to predict customer personality based on historical marketing campaign data using machine learning clustering techniques. By understanding customer personality, the company can tailor marketing campaigns more effectively and boost overall campaign performance.
 
 ## Data Understanding
 
@@ -23,6 +24,7 @@ From the existing features, 6 new features will be created, namely:
 
 ### Feature Engineering
 Here is the source code used for feature engineering.
+
 **![](https://lh7-us.googleusercontent.com/vb6ETbcQ2fk5CGlUAqWpGKue_RjxE66SEQ6dEqDiaDjmXTyNQZUbUWKGgaQI7_zXFPTWNqO1Q1jY3Iv7pc56aGXUOeUEO12_rNwxTZwClQZ8uCwZj_jbzfP71aptPt6Nx-dFMFtGcIeHd_auqarJvx16Hg=s2048)![](https://lh7-us.googleusercontent.com/DlFAZg5qM8GnbWEn1uuCeHxMSS1FgS8R7mG1KA5l5wJxu-3dRf3uueesxLWLXFHOQ0hL8WKao4po5HgGHvoyQt4M5CiLah-aSxPOnquL9DoS5yAliiB-RvmF8Zx_TaSRh_bQAhCCs_TTFS3NGS5j3zSatg=s2048)![](https://lh7-us.googleusercontent.com/gPJWZ3OzaZ5IoEofuItL18fTSCqfS8I95kjxAkST3PhXcBST3lmfz0YsYiJu_GPDM4L-iiIiwRYevRY5L-wthdk1X78sefU0hMC8wD12KHQFv2Rn9lKBFWaIP4BmXqMUj8ZX7MVoBz0O8jSBBmy0gHVf6w=s2048)**
 
 ## Exploratory Data Analysis
@@ -60,6 +62,7 @@ This can be used as a reference for business recommendations, suggesting that to
 
 ## Standarization
 Performing standardization using StandardScaler
+
 **![](https://lh7-us.googleusercontent.com/9DuaZOn6d4FrwJmwM2hfb4a9jJrcvbkubFwqcmEHwzQ09tQ6w8AaaGyq4oYY7ih_U3ZBOXrCnTJQfsCjQRnCEjTk5hPQNJ77HUa8j46sn6nrfvFDhKKW9zBMnAB3VSXQXDKKHXieiwGwDF_CtEplQHaLtQ=s2048)![](https://lh7-us.googleusercontent.com/wtrDKddkVEsxvLV_Ul1DTr25DyrxWwbzUwxfDfEIGZAwXd8245S7sL7ljkSsGXYOiot696bM8l5Qlg3lugHG2i4-taq-z7gbciK9xjaiih3lWig6gze1mXXICkCpRDtNhDRmRAI5HYPG2iOWCCJR6oXT9g=s2048)**
 ## Modeling
 **![](https://lh7-us.googleusercontent.com/gNpIDWQwLMjrKvv3Eio2b95JS3axE1vfghgxaMdJPZ2LqUZzTSHlIrNgu9d6zr8dst78ilENo1zDb90NDGoO9-1LqDl59Krd_jtmLk3c7S-Vm7Sb6dDwxip5rjv_cVErLVcy3HhpJVVuWwO85hKtAMm91A=s2048)![](https://lh7-us.googleusercontent.com/UaDCnSqaOGQQWjVACdK2K8fkMuKkZSiqvzXS_CrFvqfuA3zr3fPx9TPcyAjLpie_PsuOH4VvJwGqiEVPD4H3fu0gukQGAa2uibMEDFbGx-mjvBbunF-6EZEFRVGQaUuDThCZuVlmYDTXvOv4qgtGBAI6hA=s2048)**
